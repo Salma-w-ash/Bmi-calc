@@ -1,10 +1,9 @@
-import photo from "./assets/photo.png";
 import "./SecondSection.css";
 export default function SecondSection() {
   return (
     <div className="col-12">
       <div className="container d-flex justify-content-between align-items-center">
-        <img src={photo} />
+        <img src="/photo.png" alt="Photo" />
 
         <div className="right2 d-flex flex-column justify-content-center gap-3">
           <h2>What your BMI result means</h2>
