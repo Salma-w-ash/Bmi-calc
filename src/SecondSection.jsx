@@ -1,4 +1,4 @@
-import photo from './assets/photo.png';
+import photo from '../assets/photo.png';
 import  './SecondSection.css' 
 export default function SecondSection(){
     return (
