@@ -1,0 +1,27 @@
+.container{
+    background-color: #fff;
+}
+.right2{
+    position: relative;
+    top: 100px;
+    h2{
+        width: 465px;
+height: 106px;
+opacity: 1;
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 48px;
+
+    }
+    p{
+        width: 465px;
+height: 168px;
+opacity: 1;
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+
+    }
+}

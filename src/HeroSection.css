@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Space+Grotesk:wght@300..700&display=swap');
+.container{
+    
+      height: 737px;
+}
+.left-content{
+background: linear-gradient(to right , #D6FCFE00 ,#D6E6FE);
+width: 1202px;
+height: 737px;
+border-radius: 10px;
+opacity: 1;
+
+}
+.left{
+    padding-left: 80px;
+    width: 564px;
+    height:476px;
+    h1{
+        font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 64px;
+line-height: 110.00000000000001%;
+letter-spacing: -5%;
+
+    }
+    p{
+        width: 465px;
+height: 96px;
+
+opacity: 1;
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+
+    }
+}
+.right{
+    position: relative;
+    right: 120px;
+    width: 474px;
+    height:476px;
+     background: white;
+     border-radius: 20px;
+ .result{
+    background-color:#345FF6;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+ }     
+ h4{
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: -5%;
+
+ }   
+ #metrec , #imperiall{
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 16px;
+
+ }   
+ .labelz{
+    font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+ gap: 220px;
+
+ }
+ .radio{
+    gap: 200px;
+ }
+ .result{
+    color: white;
+.bmi{
+    p{
+        width: 206px;
+        font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 16px;
+color: white;
+
+    }
+    h3{
+        font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 64px;
+line-height: 110.00000000000001%;
+color: white;
+
+    }
+ }
+ p{
+    width: 206px;
+opacity: 1;
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+ }
+ 
+ }
+}

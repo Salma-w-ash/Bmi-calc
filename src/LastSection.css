@@ -1,0 +1,126 @@
+.content {
+.container{
+    
+
+}
+}
+.lastRight{
+    position: relative;
+    top: -240px;
+.heading-1 {
+  width: 564px;
+  height: 53px;
+  opacity: 1;
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 48px;
+
+
+}
+p{
+   width: 564px;
+height: 96px;
+opacity: 1;
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+
+}
+}
+
+.lastLeft {
+     position: relative;
+  gap: 32px;
+  width: 100%;
+}
+
+
+.lastLeft  div {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px;
+  width: 300px;
+}
+
+.lastLeft h6 {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+
+}
+
+
+.lastLeft p {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  line-height: 1.6;
+  margin: 0;
+}
+
+.lastLeft .gender {
+     position: absolute;
+  top: -356px;
+  left: 100px;
+    width: 365px;
+    height: 232px;
+  order: 1;
+}
+
+.lastLeft .Age {
+     position: absolute;
+  top: -66px;
+  left: -86px;
+     width: 365px;
+    height: 184px;
+  order: 2;
+}
+
+.lastLeft .Muscle {
+      position: absolute;
+  top: -66px;
+  left: 317px;
+   width: 365px;
+    height: 184px;
+  order: 3;
+}
+
+.lastLeft .Pregnancy {
+    position: absolute;
+  top: 168px;
+  left: -243px;
+     width: 365px;
+    height: 232px;
+  order: 4;
+}
+
+.lastLeft .Race {
+     position: absolute;
+  top: 168px;
+  left: 160px;
+      width: 365px;
+    height: 232px;
+  order: 5;
+}
+
+
+/* .lastLeft img {
+  width: 28px;
+  height: 28px;
+  margin-bottom: 8px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+ 
